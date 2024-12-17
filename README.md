@@ -1,3 +1,6 @@
+**EXPERIMENT 3**
+
+**Date**
 # Correlation and regression for data analysis
 # Aim : 
 
@@ -21,9 +24,9 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 
-![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
+![Screenshot (37)](https://github.com/user-attachments/assets/52f51a92-ad43-45ce-9f4d-7050c16e9b7e)
 
-
-# Result
 
 # Output 
+![Screenshot (38)](https://github.com/user-attachments/assets/a75e1f5d-4866-4234-a2e3-a766e7e14de9)
+
